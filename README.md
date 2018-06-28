@@ -1,8 +1,8 @@
 # docs
 * Documentations 
 * How-To's 
-* References 
 * Tips and Tricks
 * FAQs
+* References
 * anything that may help our fellow nls users 
 * etc...
