@@ -8,6 +8,8 @@
 * etc...
 
 
- [Setup Date = Input Date (input_date)](https://github.com/hello-nls/docs/wiki/Setup-Date-=-Input-Date-(input_date))
+[XML Tricks: by SDougwillo](https://github.com/hello-nls/xml/wiki/XML-Tricks%3A-by-SDougwillo)
+
+[Setup Date = Input Date (input_date)](https://github.com/hello-nls/docs/wiki/Setup-Date-=-Input-Date-(input_date))
 
 
