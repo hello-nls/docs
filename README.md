@@ -16,6 +16,13 @@
 
 [How To add or update something with XML and SQL](https://github.com/hello-nls/docs/wiki/How-To-add-or-update-something-with-XML-and-SQL)
 
+#
+
+Videos 
+* https://www.youtube.com/user/NortridgeSoftwareLLC/videos 
+
+#
+
 
 
 
